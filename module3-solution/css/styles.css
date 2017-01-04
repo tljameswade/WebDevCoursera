@@ -1,0 +1,68 @@
+#header-nav {
+  background-color: #f6b319;
+  border-radius: 0;
+  border: 0;
+}
+
+.navbar-header a:hover, .navbar-header a:focus {
+  text-decoration: none;
+}
+
+#nav-list {
+  margin-top: 10px;
+}
+
+#nav-list div {
+  width: 100%;
+  font-size: 1.8em;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#nav-list hr {
+	width: 40%;
+}
+
+body {
+	background: #15ffee;
+}
+#main-content {
+	width: 100%;
+}
+
+#main-content h2 {
+	font-size: 35px;
+}
+
+#main-content h3 {
+	font-size: 25px;
+}
+
+#chicken {
+	background: #66ef56;
+	padding: 5px 20px;
+	margin: 20px 5px;
+}
+
+#beef {
+	background: #4561fe;
+	padding: 5px 20px;
+	margin: 20px 5px;
+}
+
+#sushi {
+	background: #747fae;
+	padding: 5px 20px;
+	margin: 20px 5px;	
+}
+
+
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+  border: 1px solid #61122f;
+}
+
+.navbar-header button.navbar-toggle {
+  clear: both;
+  margin-top: -30px;
+
